@@ -1,4 +1,4 @@
-package hackerrank;
+package com.hackerrank;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
