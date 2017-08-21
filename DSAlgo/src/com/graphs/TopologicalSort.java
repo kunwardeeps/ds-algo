@@ -8,6 +8,8 @@ import java.util.Stack;
 /***
  * 
  * @author kunwardeeps
+ * 
+ * Applications: Build systems for resolving dependencies
  *
  */
 class TopologicalSort
